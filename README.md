@@ -1,5 +1,5 @@
 ## I'm Dennys! Welcome to my Github ✌️
-[![Portifolio](https://img.shields.io/website?label=dennysmvn.info&style=for-the-badge&url=https://dennysmvn.info)](https://dennysmvn.info)
+[![Portifolio](https://img.shields.io/website?label=dennysmvn.info&style=for-the-badge&url=https://dennysmvn.info)]([https://dennysmvn.info](https://primal.net/p/npub1kavlus652necj2lpy9j5gn7kf5hqwwqxcajpky7u7v68tlf6vwes4fkfkc))
 
 - 🦾 Tech Passionate
 - 🏴‍☠️ In love with One Piece
