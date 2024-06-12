@@ -4,7 +4,6 @@
 - 🦾 Tech Passionate
 - 🏴‍☠️ In love with One Piece
 - 🎮 Game Developer 
-- ₿ Bitcoin Enthusiast
 
 <div style="display: inline-block">
   <a>
@@ -26,10 +25,3 @@
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Unity3D" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
-
-##
-I'm over **15 years of experience**, working as a **developer** and **IT manager** where I had the opportunity to work in the biggest players in the **telephony, banking and e-commerce sectors**.
-
-Have a **Bachelor's degree in Systems and Information Technology** from FATEC and a **postgraduate degree in Games Production and Programmin**g from Senac.
-
-I am **passionate** about the digital **game development** industry and a student of the area and market, as well as an enthusiast in disruptive technologies such as **Blockchain and Bitcoin**.
